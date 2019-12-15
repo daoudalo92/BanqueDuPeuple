@@ -1,0 +1,27 @@
+body{
+    background-image: url("images/img1.jpeg");
+    font-family: "forte";
+}
+h2{
+    background-color: #8fabaa;
+    font-size: 60px;
+    text-align: center;
+    padding: 10px 23px 10px 23px ;
+    font-family: forte;
+    color: white;
+    border-radius: 20px;
+}
+li a{
+    margin: 10px 23px 10px 23px ;
+    font-family: forte;
+    font-size: 30px;
+    color: white;
+    background-color: #2267a7;
+    border-radius: 20px;
+    text-align: center;
+}
+.panel-heading{
+    background-color: #5bc0de;
+    font-size: 30px;
+    text-align: center;
+}
